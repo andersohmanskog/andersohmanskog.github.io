@@ -1,5 +1,3 @@
-# Anders Öhman Skog AB
-
 
 ![](Images/Anders0.jpg)
 
