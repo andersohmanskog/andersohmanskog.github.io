@@ -7,21 +7,21 @@
 
 ##  I skogen
 
-![](images/1.jpg)
+![](Images/1.jpg)
 
-![](images/2.jpg)
+![](Images/2.jpg)
 
-![](images/3.jpg)
+![](Images/3.jpg)
 
-![](images/4.jpg)
+![](Images/4.jpg)
 
-![](images/5.jpg)
-![](images/6.jpg)
+![](Images/5.jpg)
+![](Images/6.jpg)
 
 
 
 ## Kontakt
 
-![](images/Anders2.jpg)
+![](Images/Anders2.jpg)
 
 Adresse: Lillpite,  Piteå Kommun, Norrland  
